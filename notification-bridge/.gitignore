@@ -1,0 +1,6 @@
+__pycache__/
+config.json
+.cooldown-*.txt
+bridge.log
+bridge.pid
+claudios-birth-task.xml

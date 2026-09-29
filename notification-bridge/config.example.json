@@ -1,0 +1,10 @@
+{
+  "esp_host": "",
+  "esp_host_lock": false,
+  "owner": "",
+  "device_name": "",
+  "device_owner": "",
+  "device_mac": "",
+  "cursor_approval": true,
+  "approval_cooldown_s": 25
+}
